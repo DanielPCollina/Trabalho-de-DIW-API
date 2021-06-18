@@ -1,0 +1,48 @@
+/*
+header .logo-container{
+    display: flex;
+    width: 30%;
+    align-items: center;
+    justify-content: left;
+}
+
+header .logo-container h1{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: .8rem;
+    letter-spacing: .8px;
+}
+
+header .logo-container img{
+    width: 30%;
+}
+
+button{
+    color: #fff;
+    background-color: #007bff;
+    outline: none;
+    min-height: 38px;
+    font-weight: 400;
+    text-align: center;
+    cursor: pointer;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+#pesquisa{
+    width: 760px;
+    min-width: 400px;
+    font-size: 1rem;
+    outline: none;
+    color: #495057;
+    min-height: 38px;
+    font-weight: 400;
+    font-weight: 400;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+}
+*/
